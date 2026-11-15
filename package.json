@@ -1,0 +1,33 @@
+{
+  "keyword": "Total War: MEDIEVAL II",
+  "slug": "new-total-war-medieval-2-boulderclay",
+  "game": "total-war-medieval-2",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 6,
+  "short_link": "https://share.google/ZdJI5SeHsFWU9uBmV",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "None (single-player)",
+  "modules": [],
+  "has_skins": false,
+  "players": 3890,
+  "keepalive": {
+    "file": ".github/workflows/update-content.yml",
+    "name": "Auto update",
+    "crons": [
+      "48 4 * * *",
+      "39 5 * * *",
+      "35 16 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s7",
+    "label": "How to Use Full",
+    "icon": "download"
+  },
+  "files": 24,
+  "bytes": 1964097
+}
